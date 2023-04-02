@@ -2,7 +2,7 @@
 
 ## For Windows
 
-1. Download exe from relise
+1. Download exe from release
 2. Run
 
 *Information file in My Documents/FLAC Info by Nyako folder*

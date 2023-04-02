@@ -2,7 +2,7 @@
 
 ## For Windows
 
-1. Download exe from release
+1. Download exe from [release](https://github.com/Hell13Cat/mus-get-info/releases)
 2. Run
 
 *Information file in My Documents/FLAC Info by Nyako folder*
